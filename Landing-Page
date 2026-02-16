@@ -61,11 +61,12 @@
             display: inline-block;
             padding: 16px 40px;
             background: white;
-            color: #667eea;
+            color: #9066ea;
             text-decoration: none;
             border-radius: 30px;
-            font-weight: 600;
+            font-weight: 400;
             font-size: 18px;
+            font-style: italic;
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
         }
@@ -176,7 +177,7 @@
         <div class="container">
             <h1>Your AI Digital Doppelganger</h1>
             <p class="subtitle">An intelligent assistant that thinks like you, understands you deeply and helps you excel !!</p>
-            <a href="#" class="cta-button">Get Started</a>
+            <a href="#" class="cta-button">Launching Soon...</a>
         </div>
     </section>
 
